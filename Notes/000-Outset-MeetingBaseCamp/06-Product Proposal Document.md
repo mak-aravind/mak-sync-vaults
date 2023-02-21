@@ -9,7 +9,7 @@
 
 ### References:
 
-![[Pasted image 20230219100637.png]]
+![[ProductOpportunityEvaluation.png]]
 
 
 - Opportunities Capabilities Matrix
@@ -19,4 +19,4 @@ The solution provider who have the opportunity should show their capability with
 
 Example: If you have the opportunity to ship certain goods to certain location, then you should prove your logistics capability in favor of opportunity creator.
 
-![[Pasted image 20230219101533.png]]
+![[CapabilitiesVsOpportunities.png]]
