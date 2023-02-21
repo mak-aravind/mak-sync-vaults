@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"039c4a39c94473ad","x":-1090,"y":-435,"width":400,"height":438,"type":"file","file":"Canvas/Canvas-Project-Proposed-Sectors/Sectors/Energy/Solar.canvas"},
+		{"id":"b96d2a88b8540d24","x":-624,"y":-435,"width":409,"height":440,"type":"file","file":"Canvas/Canvas-Project-Proposed-Sectors/Sectors/Agriculture/Agri.canvas"},
+		{"id":"657f541e902103d4","x":-176,"y":-435,"width":400,"height":438,"type":"file","file":"Canvas/Canvas-Project-Proposed-Sectors/Sectors/Education/education.canvas"},
+		{"id":"7f94c9162e428d59","x":-544,"y":-720,"width":250,"height":60,"type":"text","text":"Buisness Sectors\n"}
+	],
+	"edges":[
+		{"id":"f36eacc21afbca66","fromNode":"7f94c9162e428d59","fromSide":"bottom","toNode":"039c4a39c94473ad","toSide":"top"},
+		{"id":"0a6ef369b39c9113","fromNode":"7f94c9162e428d59","fromSide":"bottom","toNode":"b96d2a88b8540d24","toSide":"top"},
+		{"id":"c45bcacee0fe4eee","fromNode":"7f94c9162e428d59","fromSide":"bottom","toNode":"657f541e902103d4","toSide":"top"}
+	]
+}

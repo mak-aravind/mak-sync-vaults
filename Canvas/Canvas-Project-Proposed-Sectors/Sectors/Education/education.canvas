@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"6a4b21c6f4f25d92","x":-485,"y":194,"width":250,"height":60,"color":"2","type":"text","text":"iterative"},
+		{"id":"b1a7a94895d8dbb5","x":-98,"y":194,"width":250,"height":60,"color":"2","type":"text","text":"media animated"},
+		{"id":"7fa8bd6a4d72a449","x":-235,"y":428,"width":132,"height":57,"color":"2","type":"text","text":"Open Board"},
+		{"id":"c3f6d8d387fcb06b","x":-294,"y":-117,"width":250,"height":60,"color":"2","type":"text","text":"Teaching aid"},
+		{"id":"a8b5bf51e0927f49","x":499,"y":546,"width":250,"height":60,"color":"5","type":"text","text":"Science"},
+		{"id":"b0c2e90a37ea3a4e","x":220,"y":546,"width":250,"height":60,"color":"5","type":"text","text":"Satellite"},
+		{"id":"b319fc79a80e5681","x":-66,"y":546,"width":250,"height":60,"color":"5","type":"text","text":"Robotics"},
+		{"id":"7050bc5c242fa3b1","x":345,"y":313,"width":250,"height":60,"color":"5","type":"text","text":"Streams"},
+		{"id":"08e8bd59784c1377","x":575,"y":-117,"width":250,"height":50,"color":"5","type":"text","text":"curriculam aid"},
+		{"id":"9557f8f106d6826d","x":749,"y":313,"width":250,"height":60,"color":"5","type":"text","text":"assignments"},
+		{"id":"300741058b5d34dc","x":1357,"y":-117,"width":250,"height":60,"color":"6","type":"text","text":"Parent aid"},
+		{"id":"f93f1fcd95415e2b","x":1276,"y":204,"width":250,"height":60,"color":"6","type":"text","text":"Student Entry/Exit"},
+		{"id":"61f1353a38799cd2","x":1607,"y":204,"width":250,"height":60,"color":"6","type":"text","text":"PTM"},
+		{"id":"86d05b5d4eddd496","x":1607,"y":353,"width":250,"height":60,"color":"6","type":"text","text":"feedback managment"},
+		{"id":"4f6ec77336e574de","x":1075,"y":313,"width":250,"height":60,"color":"5","type":"text","text":"exam"},
+		{"id":"ad9d2ed9647680c7","x":774,"y":546,"width":250,"height":60,"color":"5","type":"text","text":"Arts"},
+		{"id":"7efe7f6059d80c57","x":499,"y":-419,"width":349,"height":77,"type":"text","text":"Agile Teaching Learning Methodology\n(ALTM)"}
+	],
+	"edges":[
+		{"id":"6d9dbbd334855828","fromNode":"c3f6d8d387fcb06b","fromSide":"bottom","toNode":"6a4b21c6f4f25d92","toSide":"top"},
+		{"id":"2ffc4ebc39b15f17","fromNode":"6a4b21c6f4f25d92","fromSide":"bottom","toNode":"7fa8bd6a4d72a449","toSide":"top"},
+		{"id":"cb8634804a728c19","fromNode":"c3f6d8d387fcb06b","fromSide":"bottom","toNode":"b1a7a94895d8dbb5","toSide":"top"},
+		{"id":"40288bb60235bcf6","fromNode":"b1a7a94895d8dbb5","fromSide":"bottom","toNode":"7fa8bd6a4d72a449","toSide":"top"},
+		{"id":"007ac537f09adaf4","fromNode":"7efe7f6059d80c57","fromSide":"bottom","toNode":"c3f6d8d387fcb06b","toSide":"top"},
+		{"id":"f78b3a9775a9edee","fromNode":"7efe7f6059d80c57","fromSide":"bottom","toNode":"08e8bd59784c1377","toSide":"top"},
+		{"id":"c5b695d9b7472307","fromNode":"08e8bd59784c1377","fromSide":"bottom","toNode":"7050bc5c242fa3b1","toSide":"top"},
+		{"id":"c31ceb1dcd1af3d5","fromNode":"08e8bd59784c1377","fromSide":"bottom","toNode":"4f6ec77336e574de","toSide":"top"},
+		{"id":"be34cd8cec0d61b1","fromNode":"08e8bd59784c1377","fromSide":"bottom","toNode":"9557f8f106d6826d","toSide":"top"},
+		{"id":"4df63db911b626dd","fromNode":"7efe7f6059d80c57","fromSide":"bottom","toNode":"300741058b5d34dc","toSide":"top"},
+		{"id":"2b4333bd89fddc01","fromNode":"300741058b5d34dc","fromSide":"bottom","toNode":"61f1353a38799cd2","toSide":"top"},
+		{"id":"934127e14b370a6e","fromNode":"300741058b5d34dc","fromSide":"bottom","toNode":"f93f1fcd95415e2b","toSide":"top"},
+		{"id":"a711fd34a7457842","fromNode":"61f1353a38799cd2","fromSide":"bottom","toNode":"86d05b5d4eddd496","toSide":"top"},
+		{"id":"332143ca4746f4de","fromNode":"7050bc5c242fa3b1","fromSide":"bottom","toNode":"b319fc79a80e5681","toSide":"top"},
+		{"id":"68f368836d736da1","fromNode":"7050bc5c242fa3b1","fromSide":"bottom","toNode":"b0c2e90a37ea3a4e","toSide":"top"},
+		{"id":"c6f67a1f54c9d504","fromNode":"7050bc5c242fa3b1","fromSide":"bottom","toNode":"a8b5bf51e0927f49","toSide":"top"},
+		{"id":"842e7215bc08b2c6","fromNode":"7050bc5c242fa3b1","fromSide":"bottom","toNode":"ad9d2ed9647680c7","toSide":"top"}
+	]
+}

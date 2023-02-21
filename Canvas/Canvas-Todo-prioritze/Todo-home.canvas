@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"da0fcfb4853295bb","x":-1965,"y":-1363,"width":787,"height":620,"color":"5","type":"text","text":"| Task id  | Description | Priority | End-date| Sprint Assigned | Task Status | Developer |\n| -- | -- | -- | -- | -- | -- | -- | \n|Task-1  | row1 | high | 2023-02-16 | apple | blocked | Aravind |\n|Task-2  | row2 | low | 2023-02-16 | apple | in-progress | Aravind |\n|Task-3  | row3 | medium | 2023-02-16 | N/A | N/A | |\n|Task-4  | row4 | critical | 2023-02-16 | N/A | N/A | |\n|Task-5  | row5 | critical | 2023-02-16 | apple | in-progress | Aravind |\n\n\n- **BackLog** \n\t1. Task-1 | assign | Aravind\n\t2. Task-2 | assign | Aravind\n\t3. Task-3\n\t4. Task-4\n\t5. Task-5 | assign | Aravind\n\n\n\n\n\n\n\n\n\n"},
+		{"id":"8096beb6df5a1903","x":-1965,"y":-1557,"width":181,"height":60,"color":"#fdfcfc","type":"text","text":"Developer: Aravind"},
+		{"id":"9cd5d8105fc30110","x":-1212,"y":-1682,"width":149,"height":50,"color":"#fdfcfc","type":"text","text":"**XYZ Standup**"},
+		{"id":"f5077c7fd19c8ccf","x":-1122,"y":-1363,"width":362,"height":324,"color":"2","type":"text","text":"Title : **TODO-Sprint-Backlog**\nDate: 2023-02-16 \nTime: 00:54 \nResource:\nSprint: \n- **Manipulate assigned Tasks from BackLog**\n\t - Task-1 ***Blocked***\n\t - Task-2 ***Started***\n\t - Task-5 ***Started***"},
+		{"id":"2137654aab5705c0","x":-723,"y":-1195,"width":362,"height":244,"color":"1","type":"text","text":"Title : **TODO-Blocked**\nDate: 2023-02-16 \nTime: 00:40 \nResource:\nSprint: \n- **Blocked**\n\t - [ ] Task-1\n\n\n\n"},
+		{"id":"ab924d8cfca5a500","x":-1965,"y":-1445,"width":266,"height":82,"color":"5","type":"text","text":"Master Backlog\nDate: 2023-02-16\n"},
+		{"id":"9a1b2a5fa6e9c233","x":-1122,"y":-1039,"width":362,"height":296,"color":"4","type":"text","text":"Title : **TODO-InProgress**\nDate: 2023-02-16 \nTime: 00:39 \nResource:\nSprint: \n- **In-Progress**\n\t- [ ] Task-2\n\t- [ ] Task-3\n\n\nGo to Matrix: [[todo-matrix.canvas]]"},
+		{"id":"d9f3fb03d0820fdd","x":-611,"y":-1557,"width":250,"height":60,"color":"#fdfcfc","type":"text","text":"Date: 2023-02-15 \nTime: 17:15 \n"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"4e440b531e7dd464","x":-861,"y":-255,"width":50,"height":50,"type":"text","text":"2"},
+		{"id":"a4b48aea19087538","x":-1486,"y":-791,"width":450,"height":1174,"type":"text","text":"Title : **TODO-InProgress**\nDate: 2023-02-15 \nTime: 17:48 \n- **In-Progress**\n\n"},
+		{"id":"f81de1087c5b7917","x":-279,"y":-791,"width":50,"height":50,"type":"text","text":"3"},
+		{"id":"e90ce3f51447a0d3","x":-1430,"y":-635,"width":250,"height":60,"color":"1","type":"text","text":"- Task-2 - Critical"},
+		{"id":"56ec9b28502b2ab1","x":-1430,"y":-533,"width":250,"height":60,"color":"4","type":"text","text":"- Task-5 - Low"},
+		{"id":"0c025c72ba2def05","x":-734,"y":-691,"width":358,"height":216,"type":"text","text":"\n"},
+		{"id":"7468ec0461a62949","x":-734,"y":-473,"width":358,"height":52,"color":"#f9f5f5","type":"text","text":"**Do:** Have to Finish Immediately"},
+		{"id":"cf84c93c9e3c0743","x":-680,"y":-613,"width":250,"height":60,"color":"1","type":"text","text":"- Task-2 - Critical"},
+		{"id":"4facf07d8199c359","x":-487,"y":-365,"width":194,"height":60,"color":"1","type":"text","text":"URGENT\n"},
+		{"id":"991d8a0b34444d88","x":-57,"y":-957,"width":250,"height":60,"type":"text","text":"[[Todo-home.canvas]]"},
+		{"id":"60e6317d97840054","x":-106,"y":-691,"width":347,"height":56,"color":"#f9f5f5","type":"text","text":"**Decide:** Schedule Time"},
+		{"id":"a4923f4c21ba16b6","x":-487,"y":-209,"width":194,"height":55,"color":"4","type":"text","text":"NOT IMPORTANT"},
+		{"id":"8ea0c7f9d910d3e8","x":-487,"y":-305,"width":194,"height":60,"color":"1","type":"text","text":"IMPORTANT\n"},
+		{"id":"7d437651059502ab","x":-487,"y":-154,"width":194,"height":64,"color":"1","type":"text","text":"URGENT\n"},
+		{"id":"3794709987cc8ff7","x":-111,"y":-637,"width":352,"height":216,"type":"text","text":""},
+		{"id":"f095597b6eb026e2","x":-279,"y":333,"width":50,"height":50,"type":"text","text":"1"},
+		{"id":"db9a45323002571d","x":-734,"y":-67,"width":358,"height":270,"type":"text","text":""},
+		{"id":"8c26c1178e4818f8","x":-734,"y":204,"width":358,"height":54,"color":"#f9f5f5","type":"text","text":"**Delegate:** Who can do it for you, Outsource, Automate"},
+		{"id":"3e04d325f48e59fc","x":-229,"y":-365,"width":194,"height":60,"color":"1","type":"text","text":"IMPORTANT\n"},
+		{"id":"41b82680590712ca","x":-228,"y":-305,"width":195,"height":60,"color":"4","type":"text","text":"NOT URGENT\n"},
+		{"id":"36e391133918750b","x":342,"y":-255,"width":50,"height":50,"type":"text","text":"4"},
+		{"id":"9889b9bcca87f492","x":-111,"y":-67,"width":347,"height":52,"color":"#f9f5f5","type":"text","text":"**Delete:** Reduce or Eliminate"},
+		{"id":"3c1c9355427c38ba","x":-113,"y":-15,"width":352,"height":270,"type":"text","text":"\n\n"},
+		{"id":"d017847d2e719bb3","x":-62,"y":60,"width":250,"height":60,"color":"4","type":"text","text":"- Task-5 - Low"},
+		{"id":"d87ec766ec7f2bfb","x":-228,"y":-209,"width":195,"height":60,"color":"4","type":"text","text":"NOT URGENT\n"},
+		{"id":"f86953736e6f392f","x":-227,"y":-145,"width":194,"height":55,"color":"4","type":"text","text":"NOT IMPORTANT"},
+		{"id":"60e63e4a672435b0","x":-1486,"y":-957,"width":188,"height":94,"type":"file","file":"Media-Resources/Pictures/EisenhowerMatrix_App_logo-Logo-Design.jpg"}
+	],
+	"edges":[
+		{"id":"9174a236762416e9","fromNode":"4e440b531e7dd464","fromSide":"right","toNode":"36e391133918750b","toSide":"left"},
+		{"id":"1051d9892bf10970","fromNode":"f095597b6eb026e2","fromSide":"top","toNode":"f81de1087c5b7917","toSide":"bottom"},
+		{"id":"9d6f4544e9668e9e","fromNode":"f81de1087c5b7917","fromSide":"right","toNode":"60e6317d97840054","toSide":"left"},
+		{"id":"a6eb398c2c110be5","fromNode":"f095597b6eb026e2","fromSide":"left","toNode":"8c26c1178e4818f8","toSide":"right"},
+		{"id":"2081438b46db18a8","fromNode":"4e440b531e7dd464","fromSide":"top","toNode":"7468ec0461a62949","toSide":"left"},
+		{"id":"c9945c9abdfec67d","fromNode":"36e391133918750b","fromSide":"bottom","toNode":"9889b9bcca87f492","toSide":"right"}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"801d1c87c8b90812","x":-374,"y":-193,"width":250,"height":29,"color":"4","type":"text","text":"charging stations"},
+		{"id":"a64acde3f6df1b6d","x":-345,"y":-344,"width":192,"height":62,"color":"1","type":"text","text":"**Solar Panels**"},
+		{"id":"fb7bb073de61eb25","x":-374,"y":-520,"width":250,"height":60,"color":"6","type":"text","text":"Sun is abundant in Thanjavur"},
+		{"id":"e5a3a59616eb8b6e","x":-124,"y":-34,"width":250,"height":60,"color":"2","type":"text","text":"equipments"},
+		{"id":"2809989d102d1c02","x":-630,"y":-34,"width":250,"height":60,"color":"2","type":"text","text":"Vehicles"},
+		{"id":"6f18ddde7d29f317","x":-630,"y":86,"width":250,"height":60,"color":"5","type":"text","text":"Battery"},
+		{"id":"e3148988bb6a960c","x":-124,"y":86,"width":250,"height":60,"color":"5","type":"text","text":"Battery"},
+		{"id":"ead2ab86394cab1d","x":-374,"y":279,"width":250,"height":60,"color":"#fefbfb","type":"text","text":"Lithium"},
+		{"id":"27e5f03f9b338abc","x":32,"y":-208,"width":250,"height":60,"type":"text","text":"<-------- starts here..."}
+	],
+	"edges":[
+		{"id":"066b3f61520d78e0","fromNode":"801d1c87c8b90812","fromSide":"bottom","toNode":"2809989d102d1c02","toSide":"top","label":"Charges"},
+		{"id":"e5aee2976f0ed02c","fromNode":"2809989d102d1c02","fromSide":"bottom","toNode":"6f18ddde7d29f317","toSide":"top"},
+		{"id":"9a6b75bf593db854","fromNode":"801d1c87c8b90812","fromSide":"top","toNode":"a64acde3f6df1b6d","toSide":"bottom"},
+		{"id":"2161e4dbfa5b4b14","fromNode":"fb7bb073de61eb25","fromSide":"bottom","toNode":"a64acde3f6df1b6d","toSide":"top","label":"Shines"},
+		{"id":"e7839ace0bf2dd70","fromNode":"801d1c87c8b90812","fromSide":"bottom","toNode":"e5a3a59616eb8b6e","toSide":"top","label":"charges"},
+		{"id":"c84432a5472c69a3","fromNode":"e5a3a59616eb8b6e","fromSide":"bottom","toNode":"e3148988bb6a960c","toSide":"top"},
+		{"id":"685b6e9c5d3c857b","fromNode":"e3148988bb6a960c","fromSide":"bottom","toNode":"ead2ab86394cab1d","toSide":"top","label":"Made of"},
+		{"id":"969b4107fa3e8a3a","fromNode":"6f18ddde7d29f317","fromSide":"bottom","toNode":"ead2ab86394cab1d","toSide":"top","label":"Made of"}
+	]
+}
