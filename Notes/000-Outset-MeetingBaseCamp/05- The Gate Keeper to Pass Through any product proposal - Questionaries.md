@@ -66,9 +66,13 @@ Why we have to [Plan Product](https://www.productplan.com/learn/what-is-product-
 	15. Next Q?
 	16. Did you composed the user stories for features of the product?
 	17. Did you described the specifics of your User Stories using [Gherkin Language](https://medium.com/@nic/writing-user-stories-with-gherkin-dda63461b1d2)?
+
+
 **- Design phase: Delivery Justification | Innovate System Design starting from Architecture to Delivery** 
 - [ ] [TODO]
 - [ ] Apply Domain Driven Design
 - [ ] 
+
+
 **- Marketing phase: Sales Justification | Domain Defined, Problem defined** 
 
