@@ -63,15 +63,18 @@ Why we have to [Plan Product](https://www.productplan.com/learn/what-is-product-
 		 - [ ] Answer: 
 	14. Do you identified an expert in your team, the "Go to" guy?
 		- [ ] Answer: 
-	15. Next Q?
-	16. Did you composed the user stories for features of the product?
-	17. Did you described the specifics of your User Stories using [Gherkin Language](https://medium.com/@nic/writing-user-stories-with-gherkin-dda63461b1d2)?
+	15. Did you composed the user stories for features of the product?
+	16. Did you described the specifics of your User Stories using [Gherkin Language](https://medium.com/@nic/writing-user-stories-with-gherkin-dda63461b1d2)?
+	17. Next Q?
 
 
 **- Design phase: Delivery Justification | Innovate System Design starting from Architecture to Delivery** 
+
 - [ ] [TODO]
 - [ ] Apply Domain Driven Design
-- [ ] 
+- [ ] When you choose the technologies, you have to follow KISS, the mind set when we choose the options it has to be clear:
+
+      ![[What is Perfection?.png]]
 
 
 **- Marketing phase: Sales Justification | Domain Defined, Problem defined** 
