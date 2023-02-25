@@ -73,9 +73,7 @@ Why we have to [Plan Product](https://www.productplan.com/learn/what-is-product-
 - [ ] [TODO]
 - [ ] Apply Domain Driven Design
 - [ ] When you choose the technologies, you have to follow KISS, the mind set when we choose the options it has to be clear:
-
-![Screenshot](what-is-Perfection.png)
-
+![[What-is-Perfection.png]]
 
 **- Marketing phase: Sales Justification | Domain Defined, Problem defined** 
 
